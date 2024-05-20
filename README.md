@@ -4,11 +4,10 @@
 - [x] I'am a book enthusiast, a music lover and supporter of ' Real de Madrid '.😄
 - [x] I'am passionnate from Devops
 
-![Nom de l'image](https://images.unsplash.com/photo-1518773553398-650c184e0bb3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGV2ZWxvcHBlciUyMGNvZGV8ZW58MHx8MHx8fDA%3D)
 
 #### 1. Education 🌝
 
-- Universtity of Yaoundé 1 - Computer science
+- ```  Universtity of Yaoundé 1 - Computer science ```
 
 #### 2. My Skills 🚀✨
 
@@ -16,7 +15,15 @@
 - Sofware Architecture
 - Sofware Testing
 - Database
-- Javascript, Java, Python
+
+![Nom de l'image](https://images.unsplash.com/photo-1518773553398-650c184e0bb3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGV2ZWxvcHBlciUyMGNvZGV8ZW58MHx8MHx8fDA%3D)
+
+### 3. Programming languages 🧑‍💻
+- Javascript
+- Java
+- Python
+
+### 4. Web programming 🚀🚀
 - Node js
 - React js
 - Tailwind css
