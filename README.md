@@ -1,8 +1,8 @@
 ### Hey, I' am Yann! 👋
 - [x] I'am junior software engineer and i'am a student in computer science. 🧑‍💻
 - [x] I like resolve algorithm problem, design a software, coding and test software.  ⚡ ⚡ 
-- [x] I'am a book enthusiast, a music lover and supporter of ' Real de Madrid '.😄
-- [x] I'am passionnate from Devops
+- [x] I'am a book enthusiast, a music lover and supporter of ```Real de Madrid```.😄
+- [x] I'am passionnate by Devops
 
 
 #### 1. Education 🌝
